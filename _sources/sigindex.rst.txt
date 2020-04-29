@@ -1,2 +1,2 @@
-Sigindex
+SIGindex
 ###############
