@@ -1,2 +1,2 @@
-Sigclassifier
+SIGclassifier
 ###############
